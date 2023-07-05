@@ -1,18 +1,18 @@
-![MasterHead](https://pearlhosts.com/sites/default/files/2019-03/software-development-banner.jpg)
+[![MasterHead](https://pearlhosts.com/sites/default/files/2019-03/software-development-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Mahendra Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajput8894&label=Profile%20views&color=0e75b6&style=flat" alt="msrajput8894" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio]([https://portfolio-mahendrarajput.netlify.app/](https://portfolio-mahendrarajput.netlify.app/))
+- 🔭 I’m currently working on [Portfolio](https://portfolio-mahendrarajput.netlify.app/)
 
 - 🌱 I’m currently learning **javascript and responsive design**
 
-- 👨‍💻 All of my projects are available at ([https://omnifood-mahendra.netlify.app/](https://portfolio-mahendrarajput.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio-mahendrarajput.netlify.app/](https://portfolio-mahendrarajput.netlify.app/)
 
 - 💬 Ask me about **HTML and CSS**
 
