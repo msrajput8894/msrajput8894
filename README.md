@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Omnifood](https://omnifood-mahendra.netlify.app/)
+- 🔭 I’m currently working on [Portfolio]((https://portfolio-mahendrarajput.netlify.app/))
 
 - 🌱 I’m currently learning **javascript and responsive design**
 
-- 👨‍💻 All of my projects are available at [https://omnifood-mahendra.netlify.app/](https://omnifood-mahendra.netlify.app/)
+- 👨‍💻 All of my projects are available at ([https://omnifood-mahendra.netlify.app/](https://portfolio-mahendrarajput.netlify.app/))
 
 - 💬 Ask me about **HTML and CSS**
 
