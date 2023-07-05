@@ -1,4 +1,4 @@
-[![MasterHead](https://pearlhosts.com/sites/default/files/2019-03/software-development-banner.jpg)]
+![MasterHead](https://pearlhosts.com/sites/default/files/2019-03/software-development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Mahendra Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
