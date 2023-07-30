@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg"
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajput8894&label=Profile%20views&color=0e75b6&style=flat" alt="msrajput8894" /> </p>
 
