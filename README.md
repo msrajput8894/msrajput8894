@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://personal-portfolio-mahendra.netlify.app/)
+- 🔭 I’m currently working on [Portfolio](https://amazon-clone-by-mahendra-rajput.netlify.app/)
 
 - 🌱 I’m currently learning **javascript and react js**
 
