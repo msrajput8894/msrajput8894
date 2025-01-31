@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Amazon-clone](https://amazon-clone-by-mahendra-rajput.netlify.app/)
 
-- 🌱 I’m currently learning **javascript and react js**
+- 🌱 I’m currently exploring **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-mahendra.netlify.app/](https://personal-portfolio-mahendra.netlify.app/)
 
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **msrajput8894@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
