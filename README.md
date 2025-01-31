@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mahendrasing-rajput-883908209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="msrajput8894@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/msrajput8894" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/mahendrasing-rajput-883908209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:msrajput8894@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">👋 Hey there! I'm Mahendra Rajput, a React.js wizard 🧙‍♂️ building magical web apps. Skilled in JavaScript, HTML, CSS, and modern frameworks, I turn coffee ☕ into code.
 
@@ -24,7 +24,7 @@
 - 💼 I'm currently working on: **💻 Developing a new project using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Backend**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- ⚡ Fun fact: **🎢 I once debugged an issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
 
@@ -34,10 +34,9 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=msrajput8894&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=false" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=msrajput8894&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=msrajput8894&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msrajput8894&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
