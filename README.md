@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Mahendra Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="center">
+
+👋 Hey there! I'm Mahendra Rajput, a React.js wizard 🧙‍♂️ building magical web apps. Skilled in JavaScript, HTML, CSS, and modern frameworks, I turn coffee ☕ into code.
+
+💻 Obsessed with problem-solving and innovation, I've mastered the art of React.js and love collaborating with fellow techies. Check out my GitHub for some cool projects! 🌐 </p>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajput8894&label=Profile%20views&color=0e75b6&style=flat" alt="msrajput8894" /> </p>
