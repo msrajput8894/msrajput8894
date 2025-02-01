@@ -37,6 +37,6 @@
 
 <p><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msrajput8894&show_icons=true&locale=en&layout=compact&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=false" alt="msrajput8894" /></p>
 
-<p>&nbsp;<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=msrajput8894&show_icons=true&locale=en" alt="msrajput8894" /></p>
+<p>&nbsp;<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=msrajput8894&show_icons=true&locale=en&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=false"" alt="msrajput8894" /></p>
 
-<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=msrajput8894&" alt="msrajput8894" /></p>
+<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=msrajput8894&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=false"" alt="msrajput8894" /></p>
